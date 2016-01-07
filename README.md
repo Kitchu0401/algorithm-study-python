@@ -1,6 +1,7 @@
 # 개요
 본 저장소는 파이썬 알고리즘 연구회를 위한 저장소입니다.  
 *제출일자(YYYYMMDD)*/*Dovelet제출ID*/*문제명*.py 형식을 준수해주세요. :)  
+폴더는 모두 Python Package가 아닌, Directory입니다!
 ( 주석 첨부 여부는 자율입니다. )
 
 ## 설정가이드
@@ -34,3 +35,6 @@ https://rogerdudler.github.io/git-guide/index.ko.html
 
 #### 4. 프로젝트 pull & commit - push
 - 기본적인 git의 프로세스는 상단 VCS탭 - Git을 클릭하여 수행할 수 있습니다.
+- 폴더를 나누어놓아 소스가 엉킬 일은 거의 없을겁니다만, **작업 전 항시 Pull을 먼저 받아주세요.**
+- 코드를 작성 후 우클릭 - Git - Commit File을 클릭하여 Commit만 한 후 상단 VCS탭 - Git에서 일괄적으로 Push 하거나,
+- 우클릭 - Git - Commit File에서 Commit 버튼에 마우스를 올려놓으면 Commit and Push를 선택할 수 있습니다.
