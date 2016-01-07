@@ -8,7 +8,7 @@
 커맨드라인 등에서 직접 git 명령어로 push/pull 하셔도 무관합니다.  
 단, **.idea 폴더 아래의 파일은 반드시 커밋에서 제외**해주세요.
 
-**Git이 사전에 설치되어있어야합니다.**
+**Git이 사전에 설치되어있어야합니다.**  
 https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98#윈도에-설치  
 https://rogerdudler.github.io/git-guide/index.ko.html  
 등의 페이지를 참고하셔서 Git을 미리 설치해주세요.
